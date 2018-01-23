@@ -1,0 +1,90 @@
+AWSTemplateFormatVersion: 2010-09-09
+Metadata:
+  'AWS::CloudFormation::Designer':
+    51a66b1b-45cb-49d3-b947-9e611d35f0bd:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 470
+        'y': 220
+      z: 0
+    fe63ee97-d37d-40ca-ae80-6fe67f1ba0e7:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 590
+        'y': 220
+      z: 0
+      dependson:
+        - 51a66b1b-45cb-49d3-b947-9e611d35f0bd
+    8f63375a-c720-406e-803f-44ac9f40a0ec:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 620
+        'y': 130
+      z: 0
+      dependson:
+        - fe63ee97-d37d-40ca-ae80-6fe67f1ba0e7
+    d1fe0913-c930-4bad-a7ec-1750b4238836:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 380
+        'y': 120
+      z: 0
+      dependson:
+        - 51a66b1b-45cb-49d3-b947-9e611d35f0bd
+    8e221efd-6c8e-4e6e-942c-a81c5c1e56f6:
+      source:
+        id: fe63ee97-d37d-40ca-ae80-6fe67f1ba0e7
+      target:
+        id: 51a66b1b-45cb-49d3-b947-9e611d35f0bd
+      z: 1
+    d147dc96-4f2e-4048-9c02-83e81b51feca:
+      source:
+        id: 8f63375a-c720-406e-803f-44ac9f40a0ec
+      target:
+        id: fe63ee97-d37d-40ca-ae80-6fe67f1ba0e7
+      z: 2
+    744b25f2-8549-4f57-87da-b539b17c96b6:
+      source:
+        id: d1fe0913-c930-4bad-a7ec-1750b4238836
+      target:
+        id: 51a66b1b-45cb-49d3-b947-9e611d35f0bd
+      z: 3
+Resources:
+  EC2I1A33H:
+    Type: 'AWS::EC2::Instance'
+    Properties: {}
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 51a66b1b-45cb-49d3-b947-9e611d35f0bd
+  ASLC1H22H:
+    Type: 'AWS::AutoScaling::LaunchConfiguration'
+    Properties: {}
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: fe63ee97-d37d-40ca-ae80-6fe67f1ba0e7
+    DependsOn:
+      - EC2I1A33H
+  ASASGHCDZ:
+    Type: 'AWS::AutoScaling::AutoScalingGroup'
+    Properties: {}
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 8f63375a-c720-406e-803f-44ac9f40a0ec
+    DependsOn:
+      - ASLC1H22H
+  RDSDBII5HU:
+    Type: 'AWS::RDS::DBInstance'
+    Properties: {}
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: d1fe0913-c930-4bad-a7ec-1750b4238836
+    DependsOn:
+      - EC2I1A33H

@@ -1,0 +1,19 @@
+/artifacts/template.json
+/bin
+/e2e/assets
+*~
+/core/*/config/templates.go
+/core/*/config/files.go
+.idea/
+.envrc
+coverage.txt
+profile.out
+/.glide
+
+# gitbook docs
+_book
+.grunt
+*.epub
+*.mobi
+*.pdf
+node_modules
