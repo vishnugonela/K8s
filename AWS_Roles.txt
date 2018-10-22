@@ -1,0 +1,154 @@
+AWS Admin
+---------------
+Duties:
+1.Experienced AWS Cloud Administrator to work alongside web and the application team to support transition and operation of it client web sites / applications in Amazon Cloud.
+2.Deploying, managing, and operating scalable, highly available, and fault tolerant systems on AWS
+3.Migrating an existing on-premises application to AWS
+4.Implementing and controlling the flow of data to and from AWS
+5.Selecting the appropriate AWS service based on compute, data, or security requirements
+6.Identifying appropriate use of AWS operational best practices
+7.Estimating AWS usage costs and identifying operational cost control mechanisms
+8.Communicates orally and in writing to high level public officials, as well as a variety of audiences.
+9.Produce weekly activity reports, oral presentations, briefings, standard operating procedures (SOPs), software development life-cycle (SDLC) documents and checklists, risk and issues logs and required artifacts.
+10.Experience with AWS GovCloud and supporting technologies – VPC, EC2, S3, security groups, networking, monitoring. 
+11. Experience working with AWS CLI, Management Console, and infrastructure tools – Terraform, cloud-init, boto. 
+
+
+
+Cloud Operations Engineer
+----------------------------------
+
+Key Responsibilities:
+•    Operational support of TraceLink’s J2EE and AWS based cloud platform.  This includes the monitoring and management of systems and application health, security, performance, and metrics, as well as the implementation of any tools/scripts required support this task.
+•    Monitor and support AWS EC2 instances, volumes and other services such ELB, S3, RDS, Elasticache, Redshift and DynamoDB through their entire lifecycle supporting multiple customer-facing and internal application stacks.
+•    Participate in an on-call rotation to respond to and address any system, application, or network issues, including those that occur outside normal business hours.
+•    Operate as an Agent in the Cloud Operations ticketing system.  This includes performing basic service configuration, providing logs, answering basic questions, and carrying out periodic maintenance tasks.
+•    Follow prescribed operating procedures and work instructions to support Tracelink’s cloud products.
+•    Communicate with all parts of the TraceLink organization, in both verbal and written capacities.
+•    Configure systems in accordance with instructions and training provided, as well as guidance from senior team members.
+•    Provide support and assistance to personnel from other departments in the company to ensure that they have the access and information that they need to perform their assigned tasks.
+
+AWS Developer
+--------------------
+Job Description
+Essential Job Functions:
+
+Senior Software Developer You will fundamentally change the way builds, deploys, and manages cloud applications by implementing AWS solutions. The candidate will apply their experience building reliable, scalable, data driven distributed applications, knowledge of web protocols, and in-depth knowledge of several application servers, Linux tools and Java EE architecture.
+We are creating an AWS based cloud offering and that will be your primary focus. You will be architecting and delivering a SaaS solution for our product using AWS SDKs. The candidate will be delivering an application through its full life cycle from concept to completion.
+
+Qualifications
+Requirements
+1. Bachelor's Degree in Computer Science or related field or equivalent experience.
+2. At least 5 years architecting and developing AWS- based applications. Developing and maintaining applications written in Amazon S3, AWS Elastic Beanstalk, AWS CloudFormnation, AWS managed databases such as Dynamo and Redshift.
+3. Source code management tools such as Git
+4. Skilled in high level programming language such as Java and node.js
+5. Skilled in HTML/CSS, JSON, REST, HTTP
+6. AWS certification a plus.
+7. Hotel industry experience a plus
+
+
+skill sets involved:
+------------------------
+o Setting up Java applications to run on AWS
+
+- Lambdas
+
+- EC2s (long running/heavy weight)
+
+- Cloud containers, AWS CloudFormation Templates, Docker, etc.
+
+
+o Setting up workflow on AWS
+
+- AWS step functions look promising. Define workflow, auto-retry failures, monitoring tools, etc.
+
+
+o Triggers on S3 to initiate workflow when files arrive
+
+o Setting up file systems on AWS:
+
+- S3 storage
+
+- Glacier Storage (long term storage)
+
+
+o Configuring permissions/access between AWS and on premise resources:
+
+- Unix/Linux file systems
+
+- Oracle Databases
+
+- SOAP services
+
+
+o Analyzing and Porting existing Java/JDBC applications and Oracle databases to an alternative RDBMS on AWS:
+
+- SQL Server
+
+- Triggers
+
+- Stored Procedures
+
+- DB links to other DBs
+
+- Functions
+
+
+AWS Developer
+-------------------
+Required Skills:
+
+• Bachelor’s degree in computer science or engineering field with 6-12 years technical experience. Relevant domain experience may be accepted in place of a degree.
+• Experience provisioning, operating, and maintaining systems running on AWS
+• Thorough understanding of infrastructure (firewalls, load balancers, storage, monitoring, security etc) and have experience with orchestration to develop a cloud solution.
+• Hands on experience with AWS and a strong understanding of AWS capabilities and limitations
+• Experience with Java backend development
+• Experience with Java Persistence API
+• Experience with Java Application Servers
+• Experience with Java Frameworks (i.e., Spring, Grails, Play)
+• Experience designing and developing SOAP and RESTful Services
+• Experience with Messaging
+• Experience with Designing Scalable Web Applications
+• Experience with SQL Database Technologies 
+• Java/JEE development experience
+• Knowledge of XML schemas and associated tools
+• Experience with object-oriented analysis and design techniques
+• Experience designing and implementing Service Oriented Architectures and related technologies
+• Experience with Software Configuration Management (SCM) tools (e.g. Subversion, Maven and Git)
+• High level of self-motivation, desire to deliver stellar solutions and willingness to work in a distributed team environment
+• Excellent interpersonal and customer service skills
+• Ability to multi-task in a dynamic environment with changing priorities
+• Strong troubleshooting and communication skills
+• US citizen
+• Ability to obtain a DoD Top Secret/SCI security clearance
+
+
+Cloud Developer
+---------------------
+Hands On experience of cloud platforms, for example:
+AWS:
+Experience designing, deploying, and administering scalable, available, and fault tolerant systems on AWS
+Extensive experience with EC2, S3, Redshift, RDS, Kinesis, and DynamoDB
+Azure
+Experience designing, deploying, and administering scalable, available, and fault tolerant systems on Azure Services (PaaS)
+Experience with SQL Data Warehouse, Azure Data Lakes, Azure Data Factory, HD Insight
+
+AWS Cloud developer (.net,javascript)
+-----------------------------------------------
+Qualifications:
+
+You will be technology-oriented, forward-thinking individual, with entrepreneurial spirit
+BS in Computer Science or relevant engineering field is required
+Minimum 4 years of software development experience in  .NET3.5/4.0/4.5
+A fundamental understanding of cloud technologies and architectures.
+Experience with two or more of the following AWS Technologies:  EC2, S3, SNS, SQS, CloudFormation, CloudFront, Route53, RDS, Docker Containers, Lambda, Redshift, QuickSight.
+Application deployment on Microsoft IIS 7 and 8/8.5 is required
+Strong C#/VB.Net experience is required
+Strong SQL Server 2012 R2/2014 is required
+Strong T-SQL knowledge, able to create complex stored procedures, views, functions in T-SQL are required.
+Strong experience with XML is required
+HTML, HTML 5, CSS and JavaScript knowledge
+Extensive experience developing Application Programming Interfaces (API), Web Services, and interfacing with 3rd party & custom applications
+Systems integration experience with web services and SOA experience
+Demonstrated team player and independent thinker
+Strong communication skills (verbal and written)
